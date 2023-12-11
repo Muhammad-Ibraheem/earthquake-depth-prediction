@@ -1,0 +1,1 @@
+web: gunicorn earthquake_prediction.wsgi
